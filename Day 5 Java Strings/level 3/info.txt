@@ -1,1 +1,1 @@
-This is Level 3 folder for Java Strings
+This is level 3 folder for Java strings
